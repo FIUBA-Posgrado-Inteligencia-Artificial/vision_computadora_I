@@ -8,8 +8,8 @@
 1. Bordes. Harris. Transformada de Hough. Pirámides
 1. Extracción de características. SIFT, SURF, ORB, FAST, HoG, LBP
 1. Segmentación: K-Means, watersheed, mean-shift, texturas, graph-cut
-1. Procesamiento de video, filtros de haar, optical flow, tracking
-1. Filtro de Kalman, background detection, filtro de partículas
+1. Procesamiento de video, gstreamer, tracking, optical flow
+1. Vision estereo, calibracion de camaras, estimacion de profundidad
 
 ## Material
 
@@ -21,10 +21,12 @@ El material de cada cohorte esta distribuido en branches, actualmente tenemos:
 
 - [6ta-cohorte](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_I/tree/6ta-cohorte)
 
+- [7ma-cohorte](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_I/tree/6ta-cohorte)
+
 Una vez clonado el repositorio cambiar a la cohorte corresondiente ejecutando el comando:
 
 ```bash
-git checkout 5ta-cohorte
+git checkout 7ma-cohorte
 ```
 >Cambiar el nombre del branch por la cohorte que corresponda
 
