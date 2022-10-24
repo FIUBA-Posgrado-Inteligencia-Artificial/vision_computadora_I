@@ -21,7 +21,7 @@ El material de cada cohorte esta distribuido en branches, actualmente tenemos:
 
 - [6ta-cohorte](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_I/tree/6ta-cohorte)
 
-- [7ma-cohorte](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_I/tree/6ta-cohorte)
+- [7ma-cohorte](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/vision_computadora_I/tree/7ma-cohorte)
 
 Una vez clonado el repositorio cambiar a la cohorte corresondiente ejecutando el comando:
 
