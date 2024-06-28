@@ -24,3 +24,5 @@ git checkout XX-cohorte
 
 Maxim Dorogov
 * mdorogov@fi.uba.ar
+* Leandro Torrent
+* ingtorrentleandro@gmail.com
