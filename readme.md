@@ -22,7 +22,10 @@ git checkout XX-cohorte
 
 ## Docentes a cargo
 
-Maxim Dorogov
-* mdorogov@fi.uba.ar
+* Maxim Dorogov
+
+`mdorogov@fi.uba.ar`
+
 * Leandro Torrent
-* ingtorrentleandro@gmail.com
+
+`ingtorrentleandro@gmail.com`
