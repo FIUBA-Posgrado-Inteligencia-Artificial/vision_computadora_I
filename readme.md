@@ -11,18 +11,8 @@
 1. Procesamiento de video, gstreamer, tracking, optical flow, background substraction
 1. Vision estereo, calibracion de camaras, estimacion de profundidad
 
-## Material
-
-El material de cada cohorte esta distribuido en branches. Una vez clonado el repositorio cambiar a la cohorte corresondiente ejecutando el comando `checkout`:
-
-```bash
-git checkout XX-cohorte
-```
->Cambiar el nombre del branch por la cohorte que corresponda
-
 ## Docentes a cargo
 
 Maxim Dorogov
 * mdorogov@fi.uba.ar
-* Leandro Torrent
-* ingtorrentleandro@gmail.com
+
